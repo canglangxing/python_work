@@ -1,0 +1,13 @@
+travels = ['Florence','Paris','Venice','Egypt','Constantinople']
+print(travels)
+print(sorted(travels))
+print(travels)
+print(sorted(travels,reverse=True))
+travels.reverse()
+print(travels)
+travels.reverse()
+print(travels)
+travels.sort()
+print(travels)
+travels.sort(reverse=True)
+print(travels)
